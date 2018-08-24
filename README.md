@@ -7,6 +7,7 @@ with the dns-01 challenge to obtain TLS certificates.
 In order to use this tool you must have the following programms installed.
 
 * jq
+* dehydrated
 * pdnsutil (included in *pdns-tools*)
 
 ## Contribute
